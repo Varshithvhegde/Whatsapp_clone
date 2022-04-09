@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929252795464",
+    "project_id": "mychatapp-e51d1",
+    "storage_bucket": "mychatapp-e51d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929252795464:android:6b76e88b42c4f3d490e47d",
+        "android_client_info": {
+          "package_name": "com.varshith.mychatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929252795464-1j0k3sqggq344lahloe2rvjchgc9qf7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.varshith.mychatapplication",
+            "certificate_hash": "83350d13f16bc5e715b1a7eb2e139050c6990f7a"
+          }
+        },
+        {
+          "client_id": "929252795464-59pfcdv5jbuqcvf7tho2adltji6n8u71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUP-ukulbHk3tdK6et4NITV_5UFqrNg6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929252795464-59pfcdv5jbuqcvf7tho2adltji6n8u71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
